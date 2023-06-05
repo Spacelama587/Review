@@ -1,0 +1,13 @@
+#image{
+    max-width: 100%;
+    height: auto;
+    
+}
+
+#main{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+}
